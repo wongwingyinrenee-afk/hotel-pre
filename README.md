@@ -1,2 +1,2 @@
 # hotel-pre
-predict cancellation and explor the underlaying pattern
+This project aims to predict hotel booking cancellations and analyze the key factors and patterns underlying customer cancellation behavior.
